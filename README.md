@@ -1,2 +1,5 @@
 # GoCator-Gage-RR
-Conducting a Gage R&amp;R on an output form an optical measurement system.
+STILL UNDER CONSTRUCTION
+
+Program Intent:
+Take the output from an optical measruement system and conduct gage r&r calculations
