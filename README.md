@@ -11,6 +11,17 @@ Work Breakdown:
 -First, convert the output to a format that miniTab can use.
 -Secondly, automatically conduct all the calculations and visualizations within Jupyter 
 
+Files:
+"RawDate.csv"
+-Raw data from the opitical measurement system
+
+"Data_Analysis.ipynb"
+-Notebook that is converting the raw data to a format for minitab
+
+"24.03.03 Gage RR Analysis v1.1.xlsx" 
+-Solution done within Excel
+
+
 Updates:
 04-28-24
 -Basic function is there to convert output to miniTab format
