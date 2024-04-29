@@ -14,7 +14,6 @@ Work Breakdown:
 Updates:
 04-28-24
 -Basic function is there to convert output to miniTab format
-  -Issue: operator column does not properly align with the data
   -Improvement:
     -Gage RR size is fixed at 10x3x3, for future utility have the conversion expand and contract with gage rr size
     -Write in tests for data integrity
