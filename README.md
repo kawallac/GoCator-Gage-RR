@@ -2,7 +2,7 @@
 Project Description:
 Take the output from an optical measruement system and conduct gage r&r calculations.
 
-The opitcal measurement system collects variable data on two distinct parts, jobs '1' and '2'. /n
+The opitcal measurement system collects variable data on two distinct parts, jobs '1' and '2'.
 -Job '1' has 33 characterisictics that are being measured. So for a 10x3x3 gage rr study, the output file has 2790 rows.
   -It takes ~3.5 hours to convert the output csv to a useable format for minitab
   -It takes ~4 hours to conduct miniTab calculations and tabulate the reports
